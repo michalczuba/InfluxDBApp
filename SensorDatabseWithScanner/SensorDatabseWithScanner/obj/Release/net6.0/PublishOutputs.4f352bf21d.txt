@@ -1,0 +1,9 @@
+C:\Users\jakub.mrozowski\Desktop\SDWS\SensorDatabseWithScanner.exe
+C:\Users\jakub.mrozowski\Desktop\SDWS\SensorDatabseWithScanner.dll
+C:\Users\jakub.mrozowski\Desktop\SDWS\SensorDatabseWithScanner.deps.json
+C:\Users\jakub.mrozowski\Desktop\SDWS\SensorDatabseWithScanner.runtimeconfig.json
+C:\Users\jakub.mrozowski\Desktop\SDWS\SensorDatabseWithScanner.pdb
+C:\Users\jakub.mrozowski\Desktop\SDWS\CsvHelper.dll
+C:\Users\jakub.mrozowski\Desktop\SDWS\Newtonsoft.Json.dll
+C:\Users\jakub.mrozowski\Desktop\SDWS\Common.dll
+C:\Users\jakub.mrozowski\Desktop\SDWS\Common.pdb

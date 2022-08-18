@@ -1,0 +1,10 @@
+﻿using Common;
+using SensorDatabseWithScanner.InfluxDBServices;
+InfluxDBCommands UserDB = new InfluxDBCommands();
+UserDB.ShowDB();
+UserDB.UseDB(Console.ReadLine());
+UserDB.ShowMeasurments();
+UserDB.ShowSensorInfo(Console.ReadLine());
+Console.WriteLine("X--------------------------------------------X");
+Console.WriteLine("\t\t Menu");
+Console.WriteLine("X--------------------------------------------X");
